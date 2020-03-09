@@ -1,3 +1,3 @@
 # Monokai Dark
 
-![](https://raw.githubusercontent.com/pioka/monokai-dark/master/screenshot.png)
+![](https://media.githubusercontent.com/media/pioka/monokai-dark/master/screenshot.png)
